@@ -25,3 +25,7 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+## Slow Wireless Connections
+
+Hello, this is a slow wireless connection. I don't know what I am talking about so I hope you enjoy this very detailed descriptive line of nothing.
