@@ -1,4 +1,4 @@
-# Wi‑Fi Troubleshooting Guide
+# Main KB: Wi‑Fi Troubleshooting
 
 ## Current Revision
 
